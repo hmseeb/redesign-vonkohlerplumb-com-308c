@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Von Kohler Drain Cleaning and Plumbing">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e6ba8"/>
+      <stop offset="1" stop-color="#17a2c4"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#g)"/>
+  <path d="M32 12c7 9 12 14.6 12 21a12 12 0 0 1-24 0c0-6.4 5-12 12-21z" fill="#ffffff"/>
+  <path d="M32 20c4.4 6 7.5 9.6 7.5 13.6a7.5 7.5 0 0 1-15 0c0-4 3.1-7.6 7.5-13.6z" fill="#7fd4e8"/>
+</svg>
